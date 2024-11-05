@@ -7,9 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=dark)
 
-### Tecnologias que eu uso no dia a dia
-
-
 
 
 ### Tecnologias que eu uso no meu dia
