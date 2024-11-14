@@ -22,4 +22,4 @@
 
 ## Linguagens Mais Utilizadas
 
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pablodelgado26&layout=compact&langs_count=8&theme=great-gatsby)
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&langs_count=8&theme=great-gatsby)
