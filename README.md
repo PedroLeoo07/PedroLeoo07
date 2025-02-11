@@ -1,4 +1,4 @@
-### Olá! eu sou o Leonardo Oliveira 🤙
+### Olá! eu sou o Leonardo Oliveira 👋🏼
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=dracula)
 
 
