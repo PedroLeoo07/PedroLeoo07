@@ -30,7 +30,7 @@ Atualmente sou um estudante de análise e desenvolvimento de sistemas no senai d
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
  </div>
 
- ## sistemas Operacionais
+ ## Sistemas Operacionais
 <div align="center">
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
@@ -38,7 +38,6 @@ Atualmente sou um estudante de análise e desenvolvimento de sistemas no senai d
 </div>   
 
 ## Linguagens Mais Utilizadas
-<div align="center">
 
 ![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&langs_count=8&theme=dracula)
 
