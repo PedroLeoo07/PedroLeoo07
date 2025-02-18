@@ -38,6 +38,7 @@ Atualmente sou um estudante de análise e desenvolvimento de sistemas no senai d
 </div>   
 
 ## Linguagens Mais Utilizadas
+<div align="center">
 
 ![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&langs_count=8&theme=dracula)
 
