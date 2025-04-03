@@ -86,6 +86,8 @@ Tenho experiência com Linux, Ubuntu e Windows, o que me permite trabalhar de fo
 
 <br/><br/>
 
+[![Leonrdo Oliveira's current streak](https://streak-stats.demolab.com/?user=PedroLeoo07&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 ## most used languages
 Como desenvolvedor apaixonado por criar soluções web inovadoras e de alta performance, escolho cuidadosamente as tecnologias que utilizo para entregar experiências únicas e funcionais. Cada linguagem e ferramenta é escolhida com o objetivo de garantir eficiência, qualidade e escalabilidade aos projetos que desenvolvo. Aqui estão as principais linguagens e tecnologias que fazem parte do meu processo de desenvolvimento
 
