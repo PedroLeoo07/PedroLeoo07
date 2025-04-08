@@ -1,5 +1,9 @@
-## Olá! Eu sou o Leonardo Oliveira 👋🏼
+
+## Sobre mim 👨🏽‍💻💻
 Sou estudante de Análise e Desenvolvimento de Sistemas no SENAI de Valinhos, com foco no desenvolvimento de software e na construção de soluções tecnológicas eficientes. Tenho interesse nas áreas de desenvolvimento web, bancos de dados e análise de sistemas, buscando constantemente aprimorar minhas habilidades técnicas e expandir meus conhecimentos em linguagens de programação, frameworks e boas práticas de desenvolvimento.
+
+<p align="center">
+  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=github_dark)
@@ -91,5 +95,9 @@ Tenho experiência com Linux, Ubuntu e Windows, o que me permite trabalhar de fo
 ## most used languages
 Como desenvolvedor apaixonado por criar soluções web inovadoras e de alta performance, escolho cuidadosamente as tecnologias que utilizo para entregar experiências únicas e funcionais. Cada linguagem e ferramenta é escolhida com o objetivo de garantir eficiência, qualidade e escalabilidade aos projetos que desenvolvo. Aqui estão as principais linguagens e tecnologias que fazem parte do meu processo de desenvolvimento
 
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&langs_count=8&theme=dracula)
+<p align="center">
+  <a href="https://github.com/PedroLeoo07">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&theme=transparent&hide_border=true&v=1" alt="Pedro Leonardo"/>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
 
