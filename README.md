@@ -1,103 +1,105 @@
+# 👨🏽‍💻 Leonardo Oliveira 
 
-## Sobre mim 👨🏽‍💻💻
-Sou estudante de Análise e Desenvolvimento de Sistemas no SENAI de Valinhos, com foco no desenvolvimento de software e na construção de soluções tecnológicas eficientes. Tenho interesse nas áreas de desenvolvimento web, bancos de dados e análise de sistemas, buscando constantemente aprimorar minhas habilidades técnicas e expandir meus conhecimentos em linguagens de programação, frameworks e boas práticas de desenvolvimento.
+![Profile views](https://komarev.com/ghpvc/?username=PedroLeoo07&color=0b6ab3&style=flat)
 
 <p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
+  <img alt="Coding GIF" width="300" src="assets/coding.gif"/>
+</p>
 
-## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=github_dark)
+## 👋 Sobre mim  
+Sou estudante de **Análise e Desenvolvimento de Sistemas (SENAI - Valinhos)**, apaixonado por desenvolvimento web e criação de soluções tecnológicas eficientes.  
+Tenho foco em **Frontend, Backend e UI/UX**, buscando constantemente evoluir minhas habilidades em linguagens de programação, frameworks e boas práticas de desenvolvimento.  
 
-## Frontend
-💻 Front-End Development
+---
 
-Desenvolvo interfaces modernas, responsivas e focadas na melhor experiência do usuário. Utilizo HTML, CSS, JavaScript e frameworks atuais para transformar designs em sites funcionais e dinâmicos, sempre buscando performance, usabilidade e um visual atrativo.
+## 📊 GitHub Stats
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=github_dark)  
+[![Leonardo's streak](https://streak-stats.demolab.com/?user=PedroLeoo07&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
+![Leonardo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroLeoo07&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area=true&hide_border=true)  
 
-<div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js"/></code>	
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
-	
-<br/><br/>
+---
 
+## 📈 Estatísticas detalhadas do GitHub  
 
-## Backend
-🖥️ Back-End Development
+- 👀 **Visitantes no perfil:**  
+  ![Visitors](https://komarev.com/ghpvc/?username=PedroLeoo07&color=blue&style=for-the-badge)
 
-Trabalho no desenvolvimento da estrutura que dá vida às aplicações, garantindo performance, segurança e organização dos dados. Utilizo linguagens como Node.js e Express para criar APIs robustas e escaláveis, além de ferramentas de gerenciamento de banco de dados como PostgreSQL.
+- 🌟 **Estrelas recebidas nos repositórios:**  
+  ![Stars](https://img.shields.io/github/stars/PedroLeoo07?affiliations=OWNER&style=for-the-badge&color=yellow)
 
 
-<div align="center">
-		<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
 
-<br/><br/>
+---
 
-## UI/UX
-🎨 UI/UX Design
+## 🏆 Conquistas GitHub
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PedroLeoo07&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+</p>
 
-Planejo e crio interfaces intuitivas, focadas na melhor experiência do usuário. Busco unir estética e funcionalidade, desenvolvendo layouts que sejam agradáveis, fáceis de navegar e que façam sentido para quem utiliza.
-<div align="center">
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
- <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
- <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png" alt="Next UI" title="Next UI"/></code>
+---
 
-	
-</div>
-<br/><br/>
-
-## Ferramentas
-🛠️ Tools
-
-Para garantir um desenvolvimento ágil e eficiente, utilizo ferramentas essenciais como Postman para testar e documentar APIs, e VS Code como meu editor de código preferido, proporcionando um ambiente de trabalho otimizado e produtivo.
-
+## 💻 Frontend
+Desenvolvo interfaces modernas, responsivas e focadas na melhor experiência do usuário.  
+Utilizo **HTML, CSS, JavaScript, React, Next.js e Bootstrap** para transformar ideias em sites funcionais e dinâmicos.  
 
 <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
- </div>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" title="HTML"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" title="JavaScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" title="React"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" title="Next.js"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" title="Bootstrap"/></code>
+</div>  
 
- <br/><br/>
+---
 
- ## Version Control
- 🔄 Version Control
+## 🖥️ Backend
+Trabalho no desenvolvimento da lógica que dá vida às aplicações, garantindo performance, segurança e organização dos dados.  
+Uso **Node.js, Express** e bancos de dados como **PostgreSQL e MySQL**.  
 
-Trabalho com Git para controle de versões, utilizando GitHub e GitLab para gerenciar repositórios, facilitar a colaboração em equipe e garantir um versionamento seguro e eficiente ao longo do ciclo de desenvolvimento.
- <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" alt="GitLab" title="GitLab"/></code>
- </div>
-<br/><br/>
-
-##  Operating Systems
-💻 Sistemas Operacionais
-
-Tenho experiência com Linux, Ubuntu e Windows, o que me permite trabalhar de forma eficiente em diferentes ambientes de desenvolvimento, garantindo flexibilidade e adaptação às necessidades de cada projeto.
 <div align="center">
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux_mint.png" alt="Linux Mint" title="Linux Mint"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali Linux" title="Kali Linux"/></code>
-</div>   
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" title="Node.js"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" title="Express"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" title="MySQL"/></code>
+</div>  
 
-<br/><br/>
+---
 
-[![Leonrdo Oliveira's current streak](https://streak-stats.demolab.com/?user=PedroLeoo07&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+## 🎨 UI/UX
+Planejo e crio interfaces **intuitivas e funcionais**, unindo estética e experiência do usuário.  
 
-## most used languages
-Como desenvolvedor apaixonado por criar soluções web inovadoras e de alta performance, escolho cuidadosamente as tecnologias que utilizo para entregar experiências únicas e funcionais. Cada linguagem e ferramenta é escolhida com o objetivo de garantir eficiência, qualidade e escalabilidade aos projetos que desenvolvo. Aqui estão as principais linguagens e tecnologias que fazem parte do meu processo de desenvolvimento
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" title="Figma"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" title="Canva"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png" title="Next UI"/></code>
+</div>  
 
+---
+
+## 🚀 Projetos em destaque
+📌 Aqui estão alguns dos meus principais projetos:  
+
+- 🔗 [API Rick and Morty (Next.js + Node.js)](https://github.com/PedroLeoo07/Front-End_RM-api) – Consumo de API com frontend dinâmico.  
+- 🔗 [Portfólio Pessoal](https://lab-oliveira-leo.vercel.app/) – Site responsivo para apresentação de projetos e habilidades.  
+- 🔗 [Playstation API](https://github.com/PedroLeoo07) – Api da playstation com Next.js 
+
+---
+
+## 📌 Linguagens mais usadas
 <p align="center">
   <a href="https://github.com/PedroLeoo07">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&theme=transparent&hide_border=true&v=1" alt="Pedro Leonardo"/>
+  </a>
+</p>  
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
+---
 
+## 📫 Contato
+💼 [LinkedIn](https://www.linkedin.com/in/leonardo-oliveira-38aab7321/)  
+📧 **leonardo.p.oliveira12@aluno.senai.br**  
+📱 **+55 (19) 98872-7143**  
+
+---
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=⬆️ Voltar ao topo&color=0b6ab3&style=flat" alt="Go to Top" /></a></p>
