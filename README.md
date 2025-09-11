@@ -1,5 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LEONARDO%20OLIVEIRA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20Full-Stack%20Developer%20%7C%20Problem%20Solver%20🚀&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LEONA---
+
+## 🚀 Vamos Construir Algo Incrível!
+
+<div align="center">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Sempre+pronto+para+novos+desafios!;Vamos+criar+algo+incr%C3%ADvel!;Aberto+a+colabora%C3%A7%C3%B5es!" alt="Contact Typing SVG" />
+</p>
+
+### 💬 Vamos conversar sobre:A&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20Full-Stack%20Developer%20%7C%20Problem%20Solver%20🚀&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -27,9 +37,9 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=PedroLeoo07&color=00d9ff&style=for-the-badge&label=👁️+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/PedroLeoo07?style=for-the-badge&color=4CAF50&labelColor=1c1c1c&logo=github&label=👥+FOLLOWERS)](https://github.com/PedroLeoo07)
-[![GitHub User's stars](https://img.shields.io/github/stars/PedroLeoo07?style=for-the-badge&color=FFD700&labelColor=1c1c1c&logo=star&label=⭐+STARS)](https://github.com/PedroLeoo07)
+![Profile Views](https://komarev.com/ghpvc/?username=PedroLeoo07&color=00d9ff&style=for-the-badge&label=👁️+VISUALIZAÇÕES)
+[![GitHub followers](https://img.shields.io/github/followers/PedroLeoo07?style=for-the-badge&color=4CAF50&labelColor=1c1c1c&logo=github&label=👥+SEGUIDORES)](https://github.com/PedroLeoo07)
+[![GitHub User's stars](https://img.shields.io/github/stars/PedroLeoo07?style=for-the-badge&color=FFD700&labelColor=1c1c1c&logo=star&label=⭐+ESTRELAS)](https://github.com/PedroLeoo07)
 
 </div>
 
@@ -102,17 +112,15 @@ Desenvolvedor Full-Stack em formação no **SENAI Valinhos** com foco em **Anál
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&langs_count=10" alt="Linguagens Mais Utilizadas" />
 
 <!-- Gráfico de Atividade -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroLeoo07&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=📈%20Gráfico%20de%20Contribuições&height=300" alt="Gráfico de Atividade" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroLeoo07&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Gráfico%20de%20Contribuições&height=300" alt="Gráfico de Atividade" width="100%"/>
 
 <!-- Troféus GitHub -->
-<img src="https://github-profile-trophy.vercel.app/?username=PedroLeoo07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="Troféus GitHub"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PedroLeoo07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" alt="Troféus GitHub"/>
 
 <!-- Badges de Estatísticas -->
 <br>
 ![Total Commits](https://img.shields.io/github/commit-activity/y/PedroLeoo07/PedroLeoo07?style=for-the-badge&color=00D9FF&labelColor=1c1c1c&logo=git&label=📝+COMMITS+ANUAIS)
-![Profile Views](https://komarev.com/ghpvc/?username=PedroLeoo07&color=00d9ff&style=for-the-badge&label=👁️+VISUALIZAÇÕES)
-![GitHub followers](https://img.shields.io/github/followers/PedroLeoo07?style=for-the-badge&color=4CAF50&labelColor=1c1c1c&logo=github&label=👥+SEGUIDORES)
-![GitHub User's stars](https://img.shields.io/github/stars/PedroLeoo07?style=for-the-badge&color=FFD700&labelColor=1c1c1c&logo=star&label=⭐+ESTRELAS)
+![GitHub Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=FF6B6B&labelColor=1c1c1c&logo=github&label=�+REPOSITÓRIOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPedroLeoo07)
 
 <!-- Estatísticas Detalhadas -->
 <table>
