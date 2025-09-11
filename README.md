@@ -86,6 +86,7 @@ Desenvolvedor Full-Stack em formação no **SENAI Valinhos** com foco em **Anál
 
 <div align="center">
 
+<!-- Estatísticas Principais -->
 <table>
   <tr>
     <td>
@@ -97,7 +98,33 @@ Desenvolvedor Full-Stack em formação no **SENAI Valinhos** com foco em **Anál
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&langs_count=8" alt="Linguagens Mais Utilizadas" />
+<!-- Linguagens Mais Utilizadas -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&langs_count=10" alt="Linguagens Mais Utilizadas" />
+
+<!-- Gráfico de Atividade -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroLeoo07&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=📈%20Gráfico%20de%20Contribuições&height=300" alt="Gráfico de Atividade" width="100%"/>
+
+<!-- Troféus GitHub -->
+<img src="https://github-profile-trophy.vercel.app/?username=PedroLeoo07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="Troféus GitHub"/>
+
+<!-- Badges de Estatísticas -->
+<br>
+![Total Commits](https://img.shields.io/github/commit-activity/y/PedroLeoo07/PedroLeoo07?style=for-the-badge&color=00D9FF&labelColor=1c1c1c&logo=git&label=📝+COMMITS+ANUAIS)
+![Profile Views](https://komarev.com/ghpvc/?username=PedroLeoo07&color=00d9ff&style=for-the-badge&label=👁️+VISUALIZAÇÕES)
+![GitHub followers](https://img.shields.io/github/followers/PedroLeoo07?style=for-the-badge&color=4CAF50&labelColor=1c1c1c&logo=github&label=👥+SEGUIDORES)
+![GitHub User's stars](https://img.shields.io/github/stars/PedroLeoo07?style=for-the-badge&color=FFD700&labelColor=1c1c1c&logo=star&label=⭐+ESTRELAS)
+
+<!-- Estatísticas Detalhadas -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroLeoo07&theme=tokyonight" alt="Resumo Detalhado do Perfil" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroLeoo07&theme=tokyonight&utcOffset=8" alt="Horários Mais Produtivos" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
