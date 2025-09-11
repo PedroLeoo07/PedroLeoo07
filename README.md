@@ -1,19 +1,9 @@
-# Leonardo Oliveira
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LEONARDO%20OLIVEIRA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20Full-Stack%20Developer%20%7C%20Problem%20Solver%20🚀&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
+</div>
 
 <div align="center">
-  <br clea## ## �🛠️ Stack Tecnológica
-
-<div align="center">️ Stack Tecnológica
-
-<div align="center">
-
-### 🎨 Frontend Developmentright">
-
-## 🛠️ Stack Tecnológica
-
-<div align="center">
-
-### 🎨 Frontend Development src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&height=60&lines=Desenvolvedor+Full-Stack;Desenvolvedor+Mobile;Problem+Solver;Tech+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&height=60&lines=Desenvolvedor+Full-Stack;Desenvolvedor+Mobile;Problem+Solver;Tech+Enthusiast" alt="Typing Animation" />
 
 **Análise e Desenvolvimento de Sistemas | SENAI Valinhos**
 
@@ -59,7 +49,11 @@ Desenvolvedor Full-Stack em formação no **SENAI Valinhos** com foco em **Anál
 
 <br clear="right">
 
-## �️ Stack Tecnológica
+---
+
+## 🛠️ Stack Tecnológica
+
+<div align="center">
 
 ### 🎨 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,sass&theme=dark&perline=6" alt="Frontend Technologies"/>
@@ -95,36 +89,15 @@ Desenvolvedor Full-Stack em formação no **SENAI Valinhos** com foco em **Anál
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=FF6B6B&icon_color=FF6B6B" alt="Estatísticas do GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=15" alt="Estatísticas do GitHub" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLeoo07&theme=dark&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="Sequência de Commits" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&theme=dark&hide_border=true&langs_count=10&title_color=FF6B6B" alt="Linguagens Mais Utilizadas" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroLeoo07&theme=dark" alt="Resumo do Perfil" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLeoo07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&border_radius=15" alt="Sequência de Commits" />
     </td>
   </tr>
 </table>
 
-<!-- Estatísticas Adicionais -->
-<table>
-  <tr>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroLeoo07&theme=dark" alt="Estatísticas Gerais" />
-    </td>
-  </tr>
-</table>
-
-<!-- Gráfico de Atividade -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroLeoo07&theme=github-compact&hide_border=true&color=FF6B6B&line=FF6B6B&point=FFFFFF" alt="Gráfico de Atividade" width="100%" />
-
-<!-- Troféus GitHub -->
-<img src="https://github-profile-trophy.vercel.app/?username=PedroLeoo07&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Commits,PullRequest" alt="Troféus GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&langs_count=8" alt="Linguagens Mais Utilizadas" />
 
 </div>
 
@@ -132,62 +105,55 @@ Desenvolvedor Full-Stack em formação no **SENAI Valinhos** com foco em **Anál
 
 ## 🚀 Projetos em Destaque
 
-### 🎭 [Rick & Morty API Integration](https://github.com/PedroLeoo07/Front-End_RM-api)
-**Tecnologias:** Next.js, React, API REST, CSS Modules
-
-Aplicação web que consome a API do Rick and Morty para exibir informações detalhadas sobre personagens, episódios e localizações. Implementa navegação dinâmica, sistema de busca e design responsivo.
-
-**Funcionalidades:**
-- Integração com API REST
-- Sistema de paginação
-- Busca e filtros avançados
-- Interface responsiva e intuitiva
-
-### 💼 [Portfólio Pessoal](https://lab-oliveira-leo.vercel.app/)
-**Tecnologias:** <span style="color: #FF4444;">React</span>, <span style="color: #FF4444;">CSS3</span>, <span style="color: #FF4444;">Vercel</span>
-
-Portfólio profissional desenvolvido para apresentar projetos, habilidades e experiências. Design moderno e responsivo com foco na experiência do usuário.
-
-**Características:**
-- <span style="color: #FF4444;">Design responsivo</span> e acessível
-- <span style="color: #FF4444;">Animações e transições</span> suaves
-- <span style="color: #FF4444;">Otimizado para performance</span>
-- <span style="color: #FF4444;">Deploy automatizado</span> com Vercel
-
 <div align="center">
 
-[![Rick & Morty API](https://github-readme-stats.vercel.app/api/pin/?username=PedroLeoo07&repo=Front-End_RM-api&theme=dark&hide_border=true)](https://github.com/PedroLeoo07/Front-End_RM-api)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/PedroLeoo07/Front-End_RM-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroLeoo07&repo=Front-End_RM-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Rick and Morty API"/>
+      </a>
+      <br><br>
+      <h3>🎭 Rick & Morty API</h3>
+      <p><strong>Next.js • React • API Integration • CSS Modules</strong></p>
+      <p>Aplicação que consome API para exibir personagens com navegação dinâmica e design responsivo</p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://lab-oliveira-leo.vercel.app/">
+        <img src="https://via.placeholder.com/400x200/0D1117/00D9FF?text=Portf%C3%B3lio+Pessoal" alt="Portfolio"/>
+      </a>
+      <br><br>
+      <h3>💼 Portfólio Pessoal</h3>
+      <p><strong>React • CSS3 • Design Responsivo • Vercel</strong></p>
+      <p>Portfólio profissional com design moderno e foco na experiência do usuário</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 Objetivos Profissionais
+---
 
-- **Objetivo Imediato:** Conquistar uma posição como Desenvolvedor Júnior Full-Stack
-- **Desenvolvimento Contínuo:** Aprofundar conhecimentos em TypeScript e arquiteturas escaláveis
-- **Longo Prazo:** Evoluir para posições de liderança técnica e contribuir para projetos de impacto
-
-## 📞 Contato Profissional
-
-Estou sempre aberto para discutir oportunidades de carreira, projetos colaborativos ou trocar conhecimentos sobre desenvolvimento web.
+## � Vamos Construir Algo Incrível!
 
 <div align="center">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Sempre+pronto+para+novos+desafios!;Vamos+criar+algo+incr%C3%ADvel!;Aberto+a+colabora%C3%A7%C3%B5es!" alt="Contact Typing SVG" />
+</p>
+
+### � Vamos conversar sobre:
+- 🎯 Oportunidades de carreira
+- 💡 Projetos colaborativos  
+- 🚀 Desenvolvimento web
+- ☕ Código, café e tecnologia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-oliveira-38aab7321/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4444?style=for-the-badge&logo=vercel&logoColor=white)](https://lab-oliveira-leo.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://lab-oliveira-leo.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.p.oliveira12@aluno.senai.br)
 
-![Profile Views](https://komarev.com/ghpvc/?username=PedroLeoo07&color=blue&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
-
-</div>
-
----
-
-<div align="center">
-
-**"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista do que fazer e o que não fazer. O profissionalismo e o artesanato vêm de valores que direcionam disciplinas."**
-
-*- Robert C. Martin*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
