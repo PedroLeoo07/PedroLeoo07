@@ -80,15 +80,42 @@ Desenvolvedor Full-Stack em formação no **SENAI Valinhos** com foco em **Anál
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=FF6B6B&icon_color=FF6B6B" alt="Estatísticas do GitHub" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLeoo07&theme=dark&hide_border=true" alt="Sequência de Commits" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLeoo07&theme=dark&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="Sequência de Commits" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&theme=dark&hide_border=true&langs_count=10&title_color=FF6B6B" alt="Linguagens Mais Utilizadas" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroLeoo07&theme=dark" alt="Resumo do Perfil" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Linguagens Mais Utilizadas" />
+<!-- Estatísticas Adicionais -->
+<table>
+  <tr>
+    <td width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroLeoo07&theme=dark" alt="Repos por Linguagem" />
+    </td>
+    <td width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroLeoo07&theme=dark" alt="Commits por Linguagem" />
+    </td>
+    <td width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroLeoo07&theme=dark" alt="Estatísticas Gerais" />
+    </td>
+  </tr>
+</table>
+
+<!-- Gráfico de Atividade -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroLeoo07&theme=github-compact&hide_border=true&color=FF6B6B&line=FF6B6B&point=FFFFFF" alt="Gráfico de Atividade" width="100%" />
+
+<!-- Troféus GitHub -->
+<img src="https://github-profile-trophy.vercel.app/?username=PedroLeoo07&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Commits,PullRequest" alt="Troféus GitHub" />
 
 </div>
 
@@ -108,15 +135,15 @@ Aplicação web que consome a API do Rick and Morty para exibir informações de
 - Interface responsiva e intuitiva
 
 ### 💼 [Portfólio Pessoal](https://lab-oliveira-leo.vercel.app/)
-**Tecnologias:** React, CSS3, Vercel
+**Tecnologias:** <span style="color: #FF4444;">React</span>, <span style="color: #FF4444;">CSS3</span>, <span style="color: #FF4444;">Vercel</span>
 
 Portfólio profissional desenvolvido para apresentar projetos, habilidades e experiências. Design moderno e responsivo com foco na experiência do usuário.
 
 **Características:**
-- Design responsivo e acessível
-- Animações e transições suaves
-- Otimizado para performance
-- Deploy automatizado com Vercel
+- <span style="color: #FF4444;">Design responsivo</span> e acessível
+- <span style="color: #FF4444;">Animações e transições</span> suaves
+- <span style="color: #FF4444;">Otimizado para performance</span>
+- <span style="color: #FF4444;">Deploy automatizado</span> com Vercel
 
 <div align="center">
 
@@ -139,7 +166,7 @@ Estou sempre aberto para discutir oportunidades de carreira, projetos colaborati
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-oliveira-38aab7321/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lab-oliveira-leo.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4444?style=for-the-badge&logo=vercel&logoColor=white)](https://lab-oliveira-leo.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.p.oliveira12@aluno.senai.br)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PedroLeoo07&color=blue&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
