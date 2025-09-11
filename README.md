@@ -100,12 +100,6 @@ Desenvolvedor Full-Stack em formação no **SENAI Valinhos** com foco em **Anál
 <table>
   <tr>
     <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroLeoo07&theme=dark" alt="Repos por Linguagem" />
-    </td>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroLeoo07&theme=dark" alt="Commits por Linguagem" />
-    </td>
-    <td width="33%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroLeoo07&theme=dark" alt="Estatísticas Gerais" />
     </td>
   </tr>
