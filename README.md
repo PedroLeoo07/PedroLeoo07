@@ -2,9 +2,11 @@
 
 <div align="center">
   
-**Full-Stack Developer | Análise e Desenvolvimento de Sistemas**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&height=60&lines=Desenvolvedor+Full-Stack;Desenvolvedor+Mobile;Problem+Solver;Tech+Enthusiast" alt="Typing Animation" />
 
-*Focado em criar soluções web modernas e escaláveis com experiência em React, Node.js e tecnologias emergentes*
+**Análise e Desenvolvimento de Sistemas | SENAI Valinhos**
+
+*Focado em criar soluções web e mobile modernas e escaláveis com experiência em React, Node.js e tecnologias emergentes*
 
 </div>
 
