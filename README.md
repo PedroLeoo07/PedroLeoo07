@@ -35,8 +35,6 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Coding" width="300" src="assets/coding.gif">
-
 Desenvolvedor Full-Stack em formação no **SENAI Valinhos** com foco em **Análise e Desenvolvimento de Sistemas**. Apaixonado por tecnologia e resolução de problemas, busco constantemente aprender novas tecnologias e aplicar boas práticas de desenvolvimento.
 
 **Atualmente:**
