@@ -54,7 +54,7 @@ Desenvolvedor Full-Stack em formação no **SENAI Valinhos** com foco em **Anál
 <div align="center">
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,sass&theme=dark&perline=6" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark&perline=6" alt="Frontend Technologies"/>
 
 ### ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb&theme=dark&perline=4" alt="Backend Technologies"/>
