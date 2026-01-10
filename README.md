@@ -14,13 +14,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-oliveira-38aab7321/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://lab-oliveira-leo.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:leonardo.p.oliveira12@aluno.senai.br">
-    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -28,9 +28,9 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=PedroLeoo07&color=00d9ff&style=for-the-badge&label=👁️+VISUALIZAÇÕES)
-[![GitHub followers](https://img.shields.io/github/followers/PedroLeoo07?style=for-the-badge&color=4CAF50&labelColor=1c1c1c&logo=github&label=👥+SEGUIDORES)](https://github.com/PedroLeoo07)
-[![GitHub User's stars](https://img.shields.io/github/stars/PedroLeoo07?style=for-the-badge&color=FFD700&labelColor=1c1c1c&logo=star&label=⭐+ESTRELAS)](https://github.com/PedroLeoo07)
+![Profile Views](https://komarev.com/ghpvc/?username=PedroLeoo07&color=00d9ff&style=for-the-badge&label=VISUALIZAÇÕES)
+[![GitHub followers](https://img.shields.io/github/followers/PedroLeoo07?style=for-the-badge&color=4CAF50&labelColor=1c1c1c&logo=github&label=SEGUIDORES)](https://github.com/PedroLeoo07)
+[![GitHub User's stars](https://img.shields.io/github/stars/PedroLeoo07?style=for-the-badge&color=FFD700&labelColor=1c1c1c&logo=star&label=ESTRELAS)](https://github.com/PedroLeoo07)
 
 </div>
 
@@ -114,8 +114,8 @@
 
 <br>
 
-![Total Commits](https://img.shields.io/github/commit-activity/y/PedroLeoo07/PedroLeoo07?style=for-the-badge&color=00D9FF&labelColor=1c1c1c&logo=git&label=📝+COMMITS+ANUAIS)
-![GitHub Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=FF6B6B&labelColor=1c1c1c&logo=github&label=📁+REPOSITÓRIOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPedroLeoo07)
+![Total Commits](https://img.shields.io/github/commit-activity/y/PedroLeoo07/PedroLeoo07?style=for-the-badge&color=00D9FF&labelColor=1c1c1c&logo=git&label=COMMITS+ANUAIS)
+![GitHub Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=FF6B6B&labelColor=1c1c1c&logo=github&label=REPOSITÓRIOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPedroLeoo07)
 
 <table>
   <tr>
@@ -154,7 +154,7 @@
       <br><br>
       <h3>💼 Portfolio Técnico</h3>
       <p><strong>React • Modern CSS • Responsive Design • Performance</strong></p>
-      <p>Portfolio profissional showcasing técnico com foco em UX/UI, performance e demonstração de competências técnicas</p>
+      <p>Portfolio profissional técnico com foco em UX/UI, performance otimizada e demonstração de competências em desenvolvimento</p>
     </td>
   </tr>
 </table>
