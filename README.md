@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LEONARDO%20OLIVEIRA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20Full-Stack%20Developer%20%7C%20Problem%20Solver%20🚀&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LEONARDO%20OLIVEIRA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Systems%20Analyst&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&height=60&lines=Desenvolvedor+Full-Stack;Desenvolvedor+Mobile;Problem+Solver;Tech+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer;Systems+Analysis+%26+Development;Problem+Solver;Innovation+Enthusiast" alt="Typing Animation" />
 
-**Análise e Desenvolvimento de Sistemas | SENAI Valinhos**
+**Técnico em Análise e Desenvolvimento de Sistemas**  
+**SENAI Valinhos - Formação Concluída**
 
-*Focado em criar soluções web e mobile modernas e escaláveis com experiência em React, Node.js e tecnologias emergentes*
+*Especializado no desenvolvimento de soluções web e mobile escaláveis com foco em React, Node.js e tecnologias modernas*
 
 </div>
 
@@ -33,17 +34,20 @@
 
 </div>
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Perfil Profissional
 
-Desenvolvedor Full-Stack em formação no **SENAI Valinhos** com foco em **Análise e Desenvolvimento de Sistemas**. Apaixonado por tecnologia e resolução de problemas, busco constantemente aprender novas tecnologias e aplicar boas práticas de desenvolvimento.
+**Full-Stack Developer** formado em **Análise e Desenvolvimento de Sistemas** pelo **SENAI Valinhos**. Especializado no desenvolvimento de aplicações web e mobile modernas, com sólida experiência em tecnologias JavaScript/TypeScript e foco em boas práticas de desenvolvimento e arquitetura de software.
 
-**Atualmente:**
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas - SENAI Valinhos
-- 💻 Desenvolvendo projetos com React, Next.js e Node.js
-- 📚 Estudando TypeScript, React Native e containerização com Docker
-- 🔍 Em busca de oportunidades como Desenvolvedor Júnior
+### 🎯 Competências Principais
+- **Frontend:** React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3
+- **Backend:** Node.js, Express.js, APIs RESTful, Banco de Dados
+- **Ferramentas:** Git, GitHub, VS Code, Figma, Vercel, Netlify
+- **Metodologias:** Desenvolvimento Ágil, Clean Code, Responsive Design
 
-**Localização:** São Paulo, Brasil 🇧🇷
+### 📍 Localização & Disponibilidade
+- **Local:** São Paulo, Brasil 🇧🇷
+- **Status:** Disponível para oportunidades como Desenvolvedor Jr/Pleno
+- **Modalidade:** Presencial, Híbrido ou Remoto
 
 <br clear="right">
 
@@ -62,8 +66,15 @@ Desenvolvedor Full-Stack em formação no **SENAI Valinhos** com foco em **Anál
 ### 🔧 Ferramentas & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&theme=dark&perline=6" alt="Tools & DevOps"/>
 
-### 📚 Atualmente Estudando
-<img src="https://skillicons.dev/icons?i=typescript,react,docker,aws&theme=dark&perline=4" alt="Currently Learning"/>
+### 📚 Desenvolvimento Contínuo
+<img src="https://skillicons.dev/icons?i=typescript,react,docker,aws,python&theme=dark&perline=5" alt="Currently Learning"/>
+
+### 💼 Experiência & Projetos
+- **Desenvolvimento Frontend:** Criação de interfaces responsivas e interativas
+- **Integração de APIs:** Consumo e desenvolvimento de APIs RESTful
+- **Banco de Dados:** Modelagem e implementação com PostgreSQL e MongoDB
+- **Versionamento:** Controle de versão avançado com Git/GitHub
+- **Deploy:** Experiência com plataformas de hospedagem (Vercel, Netlify)
 
 </div>
 
@@ -121,7 +132,7 @@ Desenvolvedor Full-Stack em formação no **SENAI Valinhos** com foco em **Anál
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos Profissionais
 
 <div align="center">
 
@@ -132,44 +143,55 @@ Desenvolvedor Full-Stack em formação no **SENAI Valinhos** com foco em **Anál
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroLeoo07&repo=Front-End_RM-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Rick and Morty API"/>
       </a>
       <br><br>
-      <h3>🎭 Rick & Morty API</h3>
+      <h3>🎭 Rick & Morty API Integration</h3>
       <p><strong>Next.js • React • API Integration • CSS Modules</strong></p>
-      <p>Aplicação que consome API para exibir personagens com navegação dinâmica e design responsivo</p>
+      <p>Aplicação web profissional que demonstra integração avançada com APIs externas, navegação dinâmica e design responsivo otimizado</p>
     </td>
     <td width="50%" align="center">
       <a href="https://lab-oliveira-leo.vercel.app/">
-        <img src="https://via.placeholder.com/400x200/0D1117/00D9FF?text=Portfólio+Pessoal" alt="Portfolio"/>
+        <img src="https://via.placeholder.com/400x200/0D1117/00D9FF?text=Portfolio+Profissional" alt="Portfolio"/>
       </a>
       <br><br>
-      <h3>💼 Portfólio Pessoal</h3>
-      <p><strong>React • CSS3 • Design Responsivo • Vercel</strong></p>
-      <p>Portfólio profissional com design moderno e foco na experiência do usuário</p>
+      <h3>💼 Portfolio Técnico</h3>
+      <p><strong>React • Modern CSS • Responsive Design • Performance</strong></p>
+      <p>Portfolio profissional showcasing técnico com foco em UX/UI, performance e demonstração de competências técnicas</p>
     </td>
   </tr>
 </table>
+
+### 🔧 Soluções Técnicas Implementadas
+- **Arquitetura Component-Based:** Componentização reutilizável e escalável
+- **State Management:** Gerenciamento eficiente de estado da aplicação
+- **Performance Optimization:** Implementação de lazy loading e code splitting
+- **SEO & Accessibility:** Otimização para motores de busca e acessibilidade
 
 </div>
 
 ---
 
-## 🚀 Vamos Construir Algo Incrível!
+## 🤝 Networking Profissional
 
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Sempre+pronto+para+novos+desafios!;Vamos+criar+algo+incrível!;Aberto+a+colaborações!" alt="Contact Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Disponível+para+novos+desafios;Conecte-se+para+oportunidades;Full-Stack+Development;Análise+de+Sistemas" alt="Contact Typing SVG" />
 </p>
 
-### 💬 Vamos conversar sobre:
-- 🎯 Oportunidades de carreira
-- 💡 Projetos colaborativos  
-- 🚀 Desenvolvimento web
-- ☕ Código, café e tecnologia
+### 💼 Oportunidades de Colaboração:
+- **Desenvolvimento de Software:** Projetos web e mobile
+- **Consultoria Técnica:** Análise de sistemas e arquitetura  
+- **Mentoria:** Conhecimento em desenvolvimento Frontend/Backend
+- **Networking:** Troca de experiências e conhecimento técnico
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-oliveira-38aab7321/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://lab-oliveira-leo.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.p.oliveira12@aluno.senai.br)
+### 📧 Contatos Profissionais
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-oliveira-38aab7321/)
+[![Portfolio](https://img.shields.io/badge/Portfolio_Técnico-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://lab-oliveira-leo.vercel.app/)
+[![Email](https://img.shields.io/badge/Email_Comercial-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.p.oliveira12@aluno.senai.br)
+
+### 🎯 Objetivos Profissionais
+> *"Busco contribuir com equipes que valorizam inovação, qualidade técnica e crescimento mútuo. Interessado em projetos que desafiem minhas competências e permitam impacto positivo através da tecnologia."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Conecte-se+comigo!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
