@@ -61,7 +61,7 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark&perline=6" alt="Frontend Technologies"/>
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb&theme=dark&perline=4" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql&theme=dark&perline=4" alt="Backend Technologies"/>
 
 ### 🔧 Ferramentas & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&theme=dark&perline=6" alt="Tools & DevOps"/>
