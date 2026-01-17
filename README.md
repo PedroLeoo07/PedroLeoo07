@@ -38,16 +38,28 @@
 
 **Full-Stack Developer** formado em **Análise e Desenvolvimento de Sistemas** pelo **SENAI Valinhos**. Especializado no desenvolvimento de aplicações web e mobile modernas, com sólida experiência em tecnologias JavaScript/TypeScript e foco em boas práticas de desenvolvimento e arquitetura de software.
 
+<div align="center">
+
+> ### 💡 Filosofia de Desenvolvimento
+> *"A filosofia do Linux é 'Faça você mesmo'"*  
+> **— Linus Torvalds**
+> 
+> *Acredito no aprendizado contínuo, na experimentação prática e na construção de soluções através da ação. Cada projeto é uma oportunidade de crescimento e inovação.*
+
+</div>
+
 ### 🎯 Competências Principais
-- **Frontend:** React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3
-- **Backend:** Node.js, Express.js, APIs RESTful, Banco de Dados
-- **Ferramentas:** Git, GitHub, VS Code, Figma, Vercel, Netlify
-- **Metodologias:** Desenvolvimento Ágil, Clean Code, Responsive Design
+- **Frontend Development:** React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, UI/UX
+- **Backend Development:** Node.js, Express.js, RESTful APIs, Arquitetura de Microserviços
+- **Database Management:** PostgreSQL, MongoDB, Modelagem de Dados, SQL
+- **DevOps & Tools:** Git, GitHub, VS Code, Docker, Vercel, Netlify, CI/CD
+- **Metodologias:** Desenvolvimento Ágil (Scrum), Clean Code, Design Patterns, TDD
 
 ### 📍 Localização & Disponibilidade
-- **Local:** São Paulo, Brasil 🇧🇷
-- **Status:** Disponível para oportunidades como Desenvolvedor Jr/Pleno
-- **Modalidade:** Presencial, Híbrido ou Remoto
+- **Localização:** São Paulo, Brasil 🇧🇷
+- **Status Profissional:** Disponível para oportunidades como Desenvolvedor Full-Stack Jr/Pleno
+- **Modalidade de Trabalho:** Presencial, Híbrido ou Remoto
+- **Disponibilidade:** Imediata para novos projetos e desafios
 
 <br clear="right">
 
@@ -69,12 +81,13 @@
 ### 📚 Desenvolvimento Contínuo
 <img src="https://skillicons.dev/icons?i=typescript,react,docker,aws,python&theme=dark&perline=5" alt="Currently Learning"/>
 
-### 💼 Experiência & Projetos
-- **Desenvolvimento Frontend:** Criação de interfaces responsivas e interativas
-- **Integração de APIs:** Consumo e desenvolvimento de APIs RESTful
-- **Banco de Dados:** Modelagem e implementação com PostgreSQL e MongoDB
-- **Versionamento:** Controle de versão avançado com Git/GitHub
-- **Deploy:** Experiência com plataformas de hospedagem (Vercel, Netlify)
+### 💼 Experiência & Expertise Técnica
+- **Desenvolvimento Frontend:** Criação de interfaces responsivas, interativas e otimizadas para performance
+- **Integração de APIs:** Desenvolvimento e consumo de APIs RESTful com autenticação e segurança
+- **Gerenciamento de Dados:** Modelagem, implementação e otimização de bancos de dados relacionais e NoSQL
+- **Controle de Versão:** Versionamento avançado com Git/GitHub, incluindo Git Flow e code review
+- **Deploy & Infraestrutura:** Experiência com plataformas cloud (Vercel, Netlify) e processos de CI/CD
+- **Performance Optimization:** Implementação de lazy loading, code splitting e otimizações SEO
 
 </div>
 
@@ -160,10 +173,11 @@
 </table>
 
 ### 🔧 Soluções Técnicas Implementadas
-- **Arquitetura Component-Based:** Componentização reutilizável e escalável
-- **State Management:** Gerenciamento eficiente de estado da aplicação
-- **Performance Optimization:** Implementação de lazy loading e code splitting
-- **SEO & Accessibility:** Otimização para motores de busca e acessibilidade
+- **Arquitetura Component-Based:** Desenvolvimento de componentes reutilizáveis, escaláveis e modulares
+- **State Management:** Gerenciamento eficiente de estado com Context API, Redux e hooks avançados
+- **Performance Optimization:** Implementação de lazy loading, code splitting e memoization
+- **SEO & Accessibility:** Otimização para motores de busca, WCAG compliance e acessibilidade universal
+- **Security Best Practices:** Implementação de autenticação, autorização e proteção contra vulnerabilidades comuns
 
 </div>
 
@@ -178,10 +192,11 @@
 </p>
 
 ### 💼 Oportunidades de Colaboração:
-- **Desenvolvimento de Software:** Projetos web e mobile
-- **Consultoria Técnica:** Análise de sistemas e arquitetura  
-- **Mentoria:** Conhecimento em desenvolvimento Frontend/Backend
-- **Networking:** Troca de experiências e conhecimento técnico
+- **Desenvolvimento Full-Stack:** Projetos web e mobile com stack moderno
+- **Consultoria Técnica:** Análise de sistemas, arquitetura de software e code review
+- **Mentoria & Treinamento:** Compartilhamento de conhecimento em desenvolvimento Frontend/Backend
+- **Open Source:** Contribuições para projetos de código aberto e comunidade tech
+- **Networking Profissional:** Troca de experiências, boas práticas e conhecimento técnico
 
 ### 📧 Contatos Profissionais
 
@@ -190,7 +205,7 @@
 [![Email](https://img.shields.io/badge/Email_Comercial-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.p.oliveira12@aluno.senai.br)
 
 ### 🎯 Objetivos Profissionais
-> *"Busco contribuir com equipes que valorizam inovação, qualidade técnica e crescimento mútuo. Interessado em projetos que desafiem minhas competências e permitam impacto positivo através da tecnologia."*
+> *"Busco contribuir com equipes que valorizam inovação, excelência técnica e crescimento mútuo. Interessado em projetos desafiadores que permitam aplicar minhas competências e gerar impacto positivo através da tecnologia, sempre seguindo a filosofia do 'Faça você mesmo' — aprendendo, experimentando e construindo soluções efetivas."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Conecte-se+comigo!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
