@@ -145,44 +145,6 @@
 
 ---
 
-## 🚀 Projetos Profissionais
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/PedroLeoo07/Front-End_RM-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroLeoo07&repo=Front-End_RM-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Rick and Morty API"/>
-      </a>
-      <br><br>
-      <h3>🎭 Rick & Morty API Integration</h3>
-      <p><strong>Next.js • React • API Integration • CSS Modules</strong></p>
-      <p>Aplicação web profissional que demonstra integração avançada com APIs externas, navegação dinâmica e design responsivo otimizado</p>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://lab-oliveira-leo.vercel.app/">
-        <img src="https://via.placeholder.com/400x200/0D1117/00D9FF?text=Portfolio+Profissional" alt="Portfolio"/>
-      </a>
-      <br><br>
-      <h3>💼 Portfolio Técnico</h3>
-      <p><strong>React • Modern CSS • Responsive Design • Performance</strong></p>
-      <p>Portfolio profissional técnico com foco em UX/UI, performance otimizada e demonstração de competências em desenvolvimento</p>
-    </td>
-  </tr>
-</table>
-
-### 🔧 Soluções Técnicas Implementadas
-- **Arquitetura Component-Based:** Desenvolvimento de componentes reutilizáveis, escaláveis e modulares
-- **State Management:** Gerenciamento eficiente de estado com Context API, Redux e hooks avançados
-- **Performance Optimization:** Implementação de lazy loading, code splitting e memoization
-- **SEO & Accessibility:** Otimização para motores de busca, WCAG compliance e acessibilidade universal
-- **Security Best Practices:** Implementação de autenticação, autorização e proteção contra vulnerabilidades comuns
-
-</div>
-
----
-
 ## 🤝 Networking Profissional
 
 <div align="center">
