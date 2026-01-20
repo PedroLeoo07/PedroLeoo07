@@ -41,7 +41,7 @@ Validações, tratamento de erros e arquitetura em camadas
 
 ## 🛠️ Stack Tecnológica
 
-### ### 🎨 Frontend
+### 🎨 Frontend
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css&theme=dark&perline=6" />
 </div>
@@ -70,7 +70,7 @@ Validações, tratamento de erros e arquitetura em camadas
 
 ---
 
-## ## 📍 Disponibilidade
+## 📍 Disponibilidade
 
 📍 **Localização:** São Paulo – Brasil 🇧🇷  
 💼 **Buscando:** Estágio ou Desenvolvedor Full-Stack Jr  
@@ -79,7 +79,7 @@ Validações, tratamento de erros e arquitetura em camadas
 
 ---
 
-## ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -89,7 +89,7 @@ Validações, tratamento de erros e arquitetura em camadas
 
 ---
 
-## ## 🤝 Contato & Networking
+## 🤝 Contato & Networking
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-oliveira-38aab7321/">
