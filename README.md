@@ -1,5 +1,6 @@
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LEONARDO%20OLIVEIRA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Desenvolvedor%20Full-Stack&descAlignY=60&descAlign=50&descSize=18" width="100%"/> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Full-Stack;JavaScript+%7C+React+%7C+Node.js;Aprendizado+Cont%C3%ADnuo+e+Pr%C3%A1tica" /> </div>
+
 ## 📌 Sobre mim
 
 Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Desenvolvimento de Sistemas** pelo SENAI Valinhos. Desenvolvedor Full-Stack focado em JavaScript/TypeScript, com experiência prática em React, Node.js e bancos de dados relacionais/NoSQL.
