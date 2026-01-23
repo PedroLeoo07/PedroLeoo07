@@ -47,36 +47,49 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 [Adicione o nome do seu projeto principal]
-**Descrição:** Sistema web full-stack com autenticação e gerenciamento de dados  
-**Stack:** React, Node.js, PostgreSQL, Express  
+### 🔹 TurboX
+**Descrição:** Plataforma de simulações de preparações de carros com interface interativa  
+**Stack:** Next.js, Node.js, Express, CSS3  
 **Funcionalidades:**
-- Autenticação JWT
-- CRUD completo
-- API RESTful
-- Deploy em cloud
+- Simulação de modificações automotivas
+- Sistema de configuração de peças e upgrades
+- Interface responsiva e moderna
+- API backend integrada
 
-📂 [Repositório](#) | 🌐 [Demo ao vivo](#)
+📂 [Repositório](https://github.com/PedroLeoo07/TurboX) | 🌐 [Demo ao vivo](#)
 
-### 🔹 [Adicione outro projeto]
-**Descrição:** Aplicação frontend moderna e responsiva  
-**Stack:** React, Next.js, TypeScript, CSS3  
+### 🔹 Portfólio Pessoal
+**Descrição:** Site de portfólio profissional para apresentação de projetos e habilidades  
+**Stack:** HTML5, CSS3, JavaScript  
 **Funcionalidades:**
-- Interface responsiva
-- Componentização
-- Performance otimizada
+- Design responsivo
+- Apresentação de projetos
+- Seção de contato
+- Interface clean e profissional
 
-📂 [Repositório](#) | 🌐 [Demo ao vivo](#)
+📂 [Repositório](https://github.com/PedroLeoo07/portfolio) | 🌐 [Demo ao vivo](https://lab-oliveira-leo.vercel.app/)
 
-### 🔹 [Adicione mais um projeto]
-**Descrição:** API REST estruturada e escalável  
-**Stack:** Node.js, Express, MongoDB  
+### 🔹 Card Digital
+**Descrição:** Landing page pessoal com design moderno e animações  
+**Stack:** Next.js, CSS3  
 **Funcionalidades:**
-- Validações robustas
-- Tratamento de erros
-- Arquitetura em camadas
+- Interface moderna e atrativa
+- Design responsivo
+- Animações suaves
+- Otimização de performance
 
-📂 [Repositório](#)
+📂 [Repositório](https://github.com/PedroLeoo07/card-digital)
+
+### 🔹 API PlayStation
+**Descrição:** Interface para consulta e visualização de dados da PlayStation  
+**Stack:** Next.js, CSS3  
+**Funcionalidades:**
+- Integração com API PlayStation
+- Interface de usuário intuitiva
+- Exibição de dados em tempo real
+- Design responsivo
+
+📂 [Repositório](https://github.com/PedroLeoo07/api-playstation)
 
 > 💡 **Confira mais projetos no meu [portfólio](https://lab-oliveira-leo.vercel.app/)**
 
