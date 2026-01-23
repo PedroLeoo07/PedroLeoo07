@@ -24,10 +24,22 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 
 ---
 
-## � Certificações
+## 📜 Certificações e Cursos
+
+**Certificações:**
 
 🏆 **Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos  
-🏆 **Cursos e Certificações** — [Adicione suas certificações aqui]
+🏆 **JavaScript Completo**  
+🏆 **Desenvolvimento Full-Stack Completo**
+
+**Cursos:**
+
+📚 **Designer de Games**  
+📚 **Informática**
+
+**Estudando atualmente:**
+
+📖 **Java** — Expandindo conhecimento em linguagens backend
 
 ---
 
