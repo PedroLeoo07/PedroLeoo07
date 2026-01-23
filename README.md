@@ -28,14 +28,14 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 
 **Certificações:**
 
-🏆 **Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos  
 🏆 **JavaScript Completo**  
 🏆 **Desenvolvimento Full-Stack Completo**
 
 **Cursos:**
 
-📚 **Designer de Games**  
-📚 **Informática**
+📚 **Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos  
+📚 **Designer de Games** — MC Valinhos  
+📚 **Informática** — MC Valinhos
 
 **Estudando atualmente:**
 
