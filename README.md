@@ -33,7 +33,6 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 
 **Cursos:**
 
-📚 **Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos  
 📚 **Designer de Games** — MC Valinhos  
 📚 **Informática** — MC Valinhos
 
