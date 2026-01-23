@@ -11,32 +11,74 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 
 ## 🎓 Formação Acadêmica
 
-🎓 **Engenharia de Software** — Universidade São Francisco (USF) | *Em andamento*
+🎓 **Engenharia de Software** — Universidade São Francisco (USF) | *Em andamento (Previsão: 2028)*
 
-🎓 **Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos | *Concluído*
+🎓 **Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos | *Concluído (2024)*
+
+---
+
+## 🌐 Idiomas
+
+**Português** — Nativo  
+**Inglês** — Intermediário (leitura técnica e documentação)
+
+---
+
+## � Certificações
+
+🏆 **Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos  
+🏆 **Cursos e Certificações** — [Adicione suas certificações aqui]
+
+---
+
+## 💼 Experiência
+
+**Projetos Acadêmicos e Pessoais**  
+*Desenvolvedor Full-Stack | 2023 - Presente*
+
+- Desenvolvimento de aplicações web completas utilizando JavaScript/TypeScript
+- Implementação de APIs RESTful com Node.js e Express
+- Criação de interfaces responsivas com React e Next.js
+- Integração com bancos de dados SQL e NoSQL
+- Aplicação de Clean Code e boas práticas de desenvolvimento
+- Versionamento de código com Git e GitHub
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-> *Em breve você verá aqui meus projetos públicos. Confira meu [portfólio](https://lab-oliveira-leo.vercel.app/) para mais detalhes.*
+### 🔹 [Adicione o nome do seu projeto principal]
+**Descrição:** Sistema web full-stack com autenticação e gerenciamento de dados  
+**Stack:** React, Node.js, PostgreSQL, Express  
+**Funcionalidades:**
+- Autenticação JWT
+- CRUD completo
+- API RESTful
+- Deploy em cloud
 
-<details>
-<summary>📋 Exemplos de projetos que desenvolvo</summary>
+📂 [Repositório](#) | 🌐 [Demo ao vivo](#)
 
-**🔹 Sistema Web Full-Stack**  
-Stack: React, Node.js, PostgreSQL  
-Autenticação, CRUD completo, API REST e deploy em cloud
+### 🔹 [Adicione outro projeto]
+**Descrição:** Aplicação frontend moderna e responsiva  
+**Stack:** React, Next.js, TypeScript, CSS3  
+**Funcionalidades:**
+- Interface responsiva
+- Componentização
+- Performance otimizada
 
-**🔹 Frontend Moderno**  
-Stack: React / Next.js  
-Interface responsiva, componentização e performance otimizada
+📂 [Repositório](#) | 🌐 [Demo ao vivo](#)
 
-**🔹 API REST Estruturada**  
-Stack: Node.js, Express  
-Validações, tratamento de erros e arquitetura em camadas
+### 🔹 [Adicione mais um projeto]
+**Descrição:** API REST estruturada e escalável  
+**Stack:** Node.js, Express, MongoDB  
+**Funcionalidades:**
+- Validações robustas
+- Tratamento de erros
+- Arquitetura em camadas
 
-</details>
+📂 [Repositório](#)
+
+> 💡 **Confira mais projetos no meu [portfólio](https://lab-oliveira-leo.vercel.app/)**
 
 ---
 
@@ -61,13 +103,27 @@ Validações, tratamento de erros e arquitetura em camadas
 
 ## 🧠 Competências Técnicas
 
+**Hard Skills:**
+
 ✅ Desenvolvimento Full-Stack (React + Node.js)  
 ✅ APIs RESTful e integração frontend/backend  
 ✅ Bancos de dados SQL e NoSQL  
 ✅ Git/GitHub e colaboração em equipe  
-✅ Clean Code e boas práticas  
+✅ Clean Code e boas práticas (SOLID, DRY, KISS)  
 ✅ Metodologias ágeis (Scrum)  
-✅ Deploy em cloud (Vercel, Netlify)
+✅ Deploy em cloud (Vercel, Netlify)  
+✅ Containerização com Docker  
+✅ Versionamento e controle de código
+
+**Soft Skills:**
+
+✅ Trabalho em equipe e colaboração  
+✅ Comunicação clara e efetiva  
+✅ Resolução de problemas  
+✅ Aprendizado contínuo  
+✅ Adaptabilidade  
+✅ Gestão de tempo  
+✅ Atenção aos detalhes
 
 ---
 
