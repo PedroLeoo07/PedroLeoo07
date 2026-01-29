@@ -199,6 +199,6 @@ _Desenvolvedor Full-Stack | 2023 - Presente_
 
 ---
 
-💬 _"Código limpo não é escrito seguindo regras. É escrito com carinho."_ — Robert C. Martin
+💬 _"Talk is cheap. Show me the code."_ — Linus Torvalds
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Obrigado+pela+visita!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/> </div>
