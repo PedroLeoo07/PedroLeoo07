@@ -1,4 +1,3 @@
-
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LEONARDO%20OLIVEIRA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Desenvolvedor%20Full-Stack&descAlignY=60&descAlign=50&descSize=18" width="100%"/> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Full-Stack;JavaScript+%7C+React+%7C+Node.js;Aprendizado+Cont%C3%ADnuo+e+Pr%C3%A1tica" /> </div>
 
 ## 📌 Sobre mim
@@ -11,15 +10,15 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 
 ## 🎓 Formação Acadêmica
 
-🎓 **Engenharia de Software** — Universidade São Francisco (USF) | *Em andamento (Previsão: 2028)*
+🎓 **Engenharia de Software** — Universidade São Francisco (USF) | _Em andamento (Previsão: 2028)_
 
-🎓 **Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos | *Concluído (2024)*
+🎓 **Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos | _Concluído (2024)_
 
 ---
 
 ## 🌐 Idiomas
 
-**Português** — Nativo  
+**Português** — Nativo
 **Inglês** — Intermediário (leitura técnica e documentação)
 
 ---
@@ -28,12 +27,12 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 
 **Certificações:**
 
-🏆 **JavaScript Completo**  
+🏆 **JavaScript Completo**
 🏆 **Desenvolvimento Full-Stack Completo**
 
 **Cursos:**
 
-📚 **Designer de Games** — MC Valinhos  
+📚 **Designer de Games** — MC Valinhos
 📚 **Informática** — MC Valinhos
 
 **Estudando atualmente:**
@@ -44,8 +43,8 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 
 ## 💼 Experiência
 
-**Projetos Acadêmicos e Pessoais**  
-*Desenvolvedor Full-Stack | 2023 - Presente*
+**Projetos Acadêmicos e Pessoais**
+_Desenvolvedor Full-Stack | 2023 - Presente_
 
 - Desenvolvimento de aplicações web completas utilizando JavaScript/TypeScript
 - Implementação de APIs RESTful com Node.js e Express
@@ -59,9 +58,11 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 ## 🚀 Projetos em Destaque
 
 ### 🔹 TurboX
-**Descrição:** Plataforma de simulações de preparações de carros com interface interativa  
-**Stack:** Next.js, Node.js, Express, CSS3  
+
+**Descrição:** Plataforma de simulações de preparações de carros com interface interativa
+**Stack:** Next.js, Node.js, Express, CSS3
 **Funcionalidades:**
+
 - Simulação de modificações automotivas
 - Sistema de configuração de peças e upgrades
 - Interface responsiva e moderna
@@ -70,9 +71,11 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 📂 [Repositório](https://github.com/PedroLeoo07/TurboX) | 🌐 [Demo ao vivo](#)
 
 ### 🔹 Portfólio Pessoal
-**Descrição:** Site de portfólio profissional para apresentação de projetos e habilidades  
-**Stack:** HTML5, CSS3, JavaScript  
+
+**Descrição:** Site de portfólio profissional para apresentação de projetos e habilidades
+**Stack:** HTML5, CSS3, JavaScript
 **Funcionalidades:**
+
 - Design responsivo
 - Apresentação de projetos
 - Seção de contato
@@ -81,9 +84,11 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 📂 [Repositório](https://github.com/PedroLeoo07/portfolio) | 🌐 [Demo ao vivo](https://lab-oliveira-leo.vercel.app/)
 
 ### 🔹 Card Digital
-**Descrição:** Landing page pessoal com design moderno e animações  
-**Stack:** Next.js, CSS3  
+
+**Descrição:** Landing page pessoal com design moderno e animações
+**Stack:** Next.js, CSS3
 **Funcionalidades:**
+
 - Interface moderna e atrativa
 - Design responsivo
 - Animações suaves
@@ -92,9 +97,11 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 📂 [Repositório](https://github.com/PedroLeoo07/card-digital)
 
 ### 🔹 API PlayStation
-**Descrição:** Interface para consulta e visualização de dados da PlayStation  
-**Stack:** Next.js, CSS3  
+
+**Descrição:** Interface para consulta e visualização de dados da PlayStation
+**Stack:** Next.js, CSS3
 **Funcionalidades:**
+
 - Integração com API PlayStation
 - Interface de usuário intuitiva
 - Exibição de dados em tempo real
@@ -109,16 +116,19 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 ## 🛠️ Stack Tecnológica
 
 ### 🎨 Frontend
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css&theme=dark&perline=6" />
 </div>
 
 ### ⚙️ Backend & Banco de Dados
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb&theme=dark&perline=4" />
 </div>
 
 ### 🔧 Ferramentas & DevOps
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,netlify&theme=dark&perline=6" />
 </div>
@@ -129,33 +139,33 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 
 **Hard Skills:**
 
-✅ Desenvolvimento Full-Stack (React + Node.js)  
-✅ APIs RESTful e integração frontend/backend  
-✅ Bancos de dados SQL e NoSQL  
-✅ Git/GitHub e colaboração em equipe  
-✅ Clean Code e boas práticas (SOLID, DRY, KISS)  
-✅ Metodologias ágeis (Scrum)  
-✅ Deploy em cloud (Vercel, Netlify)  
-✅ Containerização com Docker  
+✅ Desenvolvimento Full-Stack (React + Node.js)
+✅ APIs RESTful e integração frontend/backend
+✅ Bancos de dados SQL e NoSQL
+✅ Git/GitHub e colaboração em equipe
+✅ Clean Code e boas práticas (SOLID, DRY, KISS)
+✅ Metodologias ágeis (Scrum)
+✅ Deploy em cloud (Vercel, Netlify)
+✅ Containerização com Docker
 ✅ Versionamento e controle de código
 
 **Soft Skills:**
 
-✅ Trabalho em equipe e colaboração  
-✅ Comunicação clara e efetiva  
-✅ Resolução de problemas  
-✅ Aprendizado contínuo  
-✅ Adaptabilidade  
-✅ Gestão de tempo  
+✅ Trabalho em equipe e colaboração
+✅ Comunicação clara e efetiva
+✅ Resolução de problemas
+✅ Aprendizado contínuo
+✅ Adaptabilidade
+✅ Gestão de tempo
 ✅ Atenção aos detalhes
 
 ---
 
 ## 📍 Disponibilidade
 
-📍 **Localização:** São Paulo – Brasil 🇧🇷  
-💼 **Buscando:** Estágio ou Desenvolvedor Full-Stack Jr  
-🏢 **Modalidade:** Presencial | Híbrido | Remoto  
+📍 **Localização:** São Paulo – Brasil 🇧🇷
+💼 **Buscando:** Estágio ou Desenvolvedor Full-Stack Jr
+🏢 **Modalidade:** Presencial | Híbrido | Remoto
 ⏱️ **Disponibilidade:** Imediata
 
 ---
@@ -163,8 +173,11 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLeoo07&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -186,6 +199,6 @@ Estudante de **Engenharia de Software** pela USF e **Técnico em Análise e Dese
 
 ---
 
-💬 *"Código limpo não é escrito seguindo regras. É escrito com carinho."* — Robert C. Martin
+💬 _"Código limpo não é escrito seguindo regras. É escrito com carinho."_ — Robert C. Martin
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Obrigado+pela+visita!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/> </div>
