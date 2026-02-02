@@ -1,134 +1,143 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LEONARDO%20OLIVEIRA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Desenvolvedor%20em%20Forma%C3%A7%C3%A3o%20Full-Stack&descAlignY=60&descSize=18" width="100%"/>
+# Leonardo Oliveira 👨‍💻
+
+```javascript
+const leonardo = {
+  role: "Full Stack Developer em Formação",
+  formacao: {
+    graduacao: "Engenharia de Software - USF",
+    tecnico: "ADS - SENAI Valinhos ✅ (2025)",
+  },
+  paixoes: [
+    "Código limpo",
+    "Resolver problemas reais",
+    "Aprender fazendo",
+    "Open Source",
+  ],
+  mindset: "Código bom é código que resolve o problema",
+  cafe_por_dia: "Em quantidade industrial ☕",
+};
+```
+
+##
+
+Sou estudante de **Engenharia de Software** e desenvolvedor **Full Stack** em formação, transformando café e curiosidade em código funcional. Recém-formado no técnico de **ADS pelo SENAI Valinhos**, estou construindo projetos reais para aprender na prática.
+
+Minha jornada começou pela curiosidade de entender como as coisas funcionam, evoluiu para criar soluções web completas (frontend + backend + banco), e hoje estou focado em escrever código que **resolve problemas reais** - não só código bonito.
+
+Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior** em times que valorizam **aprendizado, colaboração e qualidade** acima de ego.
+
+## O que me move
+
+🎯 **Pragmatismo** - Resolver o problema é melhor que tecnologia hype
+🧪 **Curiosidade** - Sempre testando algo novo nos projetos
+👥 **Colaboração** - Code review > ego de desenvolvedor
+📈 **Crescimento** - Cada projeto é uma oportunidade de aprender
+☕ **Café** - Combustível oficial do desenvolvedor
+
+## 🛠️ Arsenal Tecnológico
+
+### Frontend & UI
+
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,figma&theme=dark" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Engenharia+de+Software;Full-Stack+em+Forma%C3%A7%C3%A3o;JavaScript+%7C+React+%7C+Node.js;Aprendizado+na+Pr%C3%A1tica" />
+### Backend & APIs
+
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,npm&theme=dark" />
 </div>
 
----
+### Banco de Dados
 
-## 👨‍💻 Sobre mim
+<div>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+</div>
 
-Sou estudante de **Engenharia de Software (USF)** e **Técnico em Análise e Desenvolvimento de Sistemas (SENAI Valinhos)**, com foco em desenvolvimento **Full-Stack em formação**, utilizando **JavaScript/TypeScript**, **React** e **Node.js**.
+### DevOps & Ferramentas
 
-Tenho experiência prática em projetos web completos, APIs REST e integração com bancos de dados. Busco evoluir constantemente aplicando **boas práticas**, **Clean Code** e aprendendo sempre na prática.
-
-🎯 **Objetivo:** Atuar como **Estagiário ou Desenvolvedor Jr**, contribuindo em times que valorizam qualidade, colaboração e crescimento técnico.
-
----
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,ubuntu,vscode,vercel&theme=dark" />
+</div>
 
 ## 🎓 Formação
 
-🎓 **Engenharia de Software** — Universidade São Francisco (USF)
+**🎓 Engenharia de Software** — Universidade São Francisco (USF)
 _Em andamento | Previsão: 2031_
 
-🎓 **Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos
+**🎓 Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos
 _Concluído | 2025_
 
----
-
-## 🌐 Idiomas
+**🌐 Idiomas**
 
 - **Português:** Nativo
 - **Inglês:** Intermediário (leitura técnica, documentação e código)
 
----
+## 💡 Filosofia de Código
 
-## 🚀 Projetos em Destaque
-
-### 🔹 TurboX
-**Plataforma de simulação de preparações automotivas**
-
-- Stack: Next.js, Node.js, Express, CSS3
-- Simulação de upgrades e modificações
-- Interface responsiva e interativa
-- Backend com API integrada
-
-📂 Repositório: https://github.com/PedroLeoo07/TurboX
-
----
-
-### 🔹 Portfólio Pessoal
-**Site para apresentação profissional de projetos**
-
-- HTML, CSS e JavaScript
-- Design responsivo
-- Estrutura limpa e objetiva
-
-🌐 https://lab-oliveira-leo.vercel.app
-📂 https://github.com/PedroLeoo07/portfolio
-
----
-
-### 🔹 Card Digital
-**Landing page pessoal com animações**
-
-- Next.js
-- Foco em design e performance
-
-📂 https://github.com/PedroLeoo07/card-digital
-
----
-
-## 🛠️ Stack Tecnológica
-
-### Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css&theme=dark" />
-</div>
-
-### Backend & Banco de Dados
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,mongodb&theme=dark" />
-</div>
-
-### Ferramentas
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,netlify,linux,ubuntu&theme=dark" />
-</div>
-
----
-
-## 🧠 Competências
-
-- Desenvolvimento Full-Stack (React + Node.js)
-- APIs RESTful
-- Bancos de dados SQL e NoSQL
-- Git/GitHub
-- Clean Code e boas práticas (SOLID)
-- Metodologias ágeis (Scrum)
-- Deploy em cloud
-
----
+```python
+def codigo_bom():
+    entender_o_problema()    # O REAL, não o sintoma
+    escolher_stack_certa()   # A que RESOLVE, não a mais hype
+    escrever_limpo()         # Futuro você vai agradecer
+    testar_antes()           # Bug em produção dói mais
+    entregar_valor()         # É pra isso que código existe
+    aprender_sempre()        # Tecnologia não para, eu também não
+```
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLeoo07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🤝 Contato
+## 🎵 Codando agora ao som de
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/leonardo-oliveira-38aab7321/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://open.spotify.com/track/7K8BnXR9lVTmaMSLMZ8qDp" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b273de09e0e0527242f60211ddac" alt="Audioslave - Like a Stone" width="300"/>
   </a>
-  <a href="https://lab-oliveira-leo.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+  <br/>
+
+**🎸 Like a Stone - Audioslave**
+
+</div>
+
+---
+
+## 💬 Bora conversar?
+
+Interesse em trocar ideia sobre **desenvolvimento full stack**, **projetos colaborativos**, **arquitetura de software** ou oportunidades de **estágio/júnior**? 👇
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/leonardo-oliveira-38aab7321/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://lab-oliveira-leo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
   </a>
   <a href="mailto:leonardopedrodeoliveira07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/PedroLeoo07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
 ---
 
-💬 *“Talk is cheap. Show me the code.”* — Linus Torvalds
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Obrigado+pela+visita!&fontSize=24&fontColor=ffffff" width="100%"/>
+
+### 💻 _"Talk is cheap. Show me the code."_ — Linus Torvalds
+
+**Feito com pragmatismo, café e vontade de resolver problemas** ☕💙
+
 </div>
