@@ -100,16 +100,11 @@ def codigo_bom():
 
 ## 🎵 Codando agora ao som de
 
-<div align="center">
-  <a href="https://open.spotify.com/track/7K8BnXR9lVTmaMSLMZ8qDp" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b273de09e0e0527242f60211ddac" alt="Audioslave - Like a Stone" width="300"/>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qu5ssyp3lfxi6yir2jrel7e7g4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
   </a>
-
-  <br/>
-
-**🎸 Like a Stone - Audioslave**
-
-</div>
+</p>
 
 ---
 
