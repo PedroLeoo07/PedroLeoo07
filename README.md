@@ -1,38 +1,8 @@
-# Leonardo Oliveira 👨‍💻
+# Leonardo Oliveira
 
-```javascript
-const leonardo = {
-  role: "Full Stack Developer em Formação",
-  formacao: {
-    graduacao: "Engenharia de Software - USF",
-    tecnico: "ADS - SENAI Valinhos ✅ (2025)",
-  },
-  paixoes: [
-    "Código limpo",
-    "Resolver problemas reais",
-    "Aprender fazendo",
-    "Open Source",
-  ],
-  mindset: "Código bom é código que resolve o problema",
-  cafe_por_dia: "Em quantidade industrial ☕",
-};
-```
+**Full Stack Developer** | Estudante de Engenharia de Software (USF) | Técnico em ADS (SENAI Valinhos)
 
-##
-
-Sou estudante de **Engenharia de Software** e desenvolvedor **Full Stack** em formação, transformando café e curiosidade em código funcional. Recém-formado no técnico de **ADS pelo SENAI Valinhos**, estou construindo projetos reais para aprender na prática.
-
-Minha jornada começou pela curiosidade de entender como as coisas funcionam, evoluiu para criar soluções web completas (frontend + backend + banco), e hoje estou focado em escrever código que **resolve problemas reais** - não só código bonito.
-
-Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior** em times que valorizam **aprendizado, colaboração e qualidade** acima de ego.
-
-## O que me move
-
-🎯 **Pragmatismo** - Resolver o problema é melhor que tecnologia hype
-🧪 **Curiosidade** - Sempre testando algo novo nos projetos
-👥 **Colaboração** - Code review > ego de desenvolvedor
-📈 **Crescimento** - Cada projeto é uma oportunidade de aprender
-☕ **Café** - Combustível oficial do desenvolvedor
+Desenvolvedor focado em criar soluções práticas, escaláveis e de qualidade. Experiência com desenvolvimento full stack, versionamento de código e boas práticas de engenharia de software.
 
 ## 🛠️ Arsenal Tecnológico
 
@@ -73,18 +43,6 @@ _Concluído | 2025_
 - **Português:** Nativo
 - **Inglês:** Intermediário (leitura técnica, documentação e código)
 
-## 💡 Filosofia de Código
-
-```python
-def codigo_bom():
-    entender_o_problema()    # O REAL, não o sintoma
-    escolher_stack_certa()   # A que RESOLVE, não a mais hype
-    escrever_limpo()         # Futuro você vai agradecer
-    testar_antes()           # Bug em produção dói mais
-    entregar_valor()         # É pra isso que código existe
-    aprender_sempre()        # Tecnologia não para, eu também não
-```
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -98,41 +56,13 @@ def codigo_bom():
 
 ---
 
-## 🎵 Codando agora ao som de
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qu5ssyp3lfxi6yir2jrel7e7g4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
-  </a>
-</p>
-
----
-
-## 💬 Bora conversar?
-
-Interesse em trocar ideia sobre **desenvolvimento full stack**, **projetos colaborativos**, **arquitetura de software** ou oportunidades de **estágio/júnior**? 👇
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/leonardo-oliveira-38aab7321/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://lab-oliveira-leo.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
-  </a>
-  <a href="mailto:leonardopedrodeoliveira07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/PedroLeoo07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
----
+## Contato
 
 <div align="center">
 
-### 💻 _"Talk is cheap. Show me the code."_ — Linus Torvalds
-
-**Feito com pragmatismo, café e vontade de resolver problemas** ☕💙
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-oliveira-38aab7321/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/PedroLeoo07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=vercel&logoColor=white)](https://lab-oliveira-leo.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leonardopedrodeoliveira07@gmail.com)
 
 </div>
