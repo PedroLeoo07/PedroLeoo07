@@ -1,15 +1,15 @@
 # Leonardo Oliveira
 
-**Full Stack Developer** | Estudante de Engenharia de Software (USF) | Técnico em ADS (SENAI Valinhos)
+**Full Stack Developer** | Engenharia de Software (USF) | Técnico em ADS (SENAI Valinhos)
 
-Desenvolvedor focado em criar soluções práticas, escaláveis e de qualidade. Experiência com desenvolvimento full stack, versionamento de código e boas práticas de engenharia de software.
+Desenvolvo aplicações web modernas e escaláveis com foco em qualidade, performance e experiência do usuário. Especializado em React, Node.js e arquiteturas orientadas a boas práticas de engenharia. Disponível para oportunidades e colaborações técnicas.
 
-## 🛠️ Arsenal Tecnológico
+## Tecnologias
 
-### Frontend & UI
+### Frontend
 
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css&theme=dark" />
 </div>
 
 ### Backend & APIs
@@ -18,32 +18,34 @@ Desenvolvedor focado em criar soluções práticas, escaláveis e de qualidade. 
   <img src="https://skillicons.dev/icons?i=nodejs,express,npm&theme=dark" />
 </div>
 
-### Banco de Dados
+### Bancos de Dados
 
 <div>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
 </div>
 
-### DevOps & Ferramentas
+### Ferramentas & DevOps
 
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,ubuntu,vscode,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
 </div>
 
-## 🎓 Formação
+**Softwares & Ferramentas:** Postman, VS Code, Git/GitHub, Docker, Linux, Figma (básico)
 
-**🎓 Engenharia de Software** — Universidade São Francisco (USF)
-_Em andamento | Previsão: 2031_
+## Formação
 
-**🎓 Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos
-_Concluído | 2025_
+**Engenharia de Software** — Universidade São Francisco (USF)  
+Em andamento | Previsão: 2031
 
-**🌐 Idiomas**
+**Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos  
+Concluído | 2025
 
-- **Português:** Nativo
-- **Inglês:** Intermediário (leitura técnica, documentação e código)
+**Idiomas**
 
-## 📊 GitHub Stats
+- Português: Nativo
+- Inglês: Intermediário (leitura técnica, documentação)
+
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
