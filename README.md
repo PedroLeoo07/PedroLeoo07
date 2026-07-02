@@ -28,36 +28,32 @@ Desenvolvo aplicações web com React, Node.js e APIs REST, com foco em código 
 
 **Softwares & Ferramentas:** Postman, VS Code, Git/GitHub, Docker, Linux, Figma (básico)
 
-## Projetos em Destaque
-
-### 🔹 [Nome do Projeto 1](https://github.com/PedroLeoo07/repo-1)
-Breve descrição do que o projeto resolve e por quê (1-2 linhas).
-**Stack:** React · Node.js · PostgreSQL
-🔗 [Deploy](#) · 📂 [Repositório](https://github.com/PedroLeoo07/repo-1)
-
-### 🔹 [Nome do Projeto 2](https://github.com/PedroLeoo07/repo-2)
-Breve descrição do que o projeto resolve e por quê (1-2 linhas).
-**Stack:** Next.js · Express · MongoDB
-🔗 [Deploy](#) · 📂 [Repositório](https://github.com/PedroLeoo07/repo-2)
-
-### 🔹 [Nome do Projeto 3](https://github.com/PedroLeoo07/repo-3)
-Breve descrição do que o projeto resolve e por quê (1-2 linhas).
-**Stack:** React Native · Node.js
-🔗 [Deploy](#) · 📂 [Repositório](https://github.com/PedroLeoo07/repo-3)
-
-> 💡 Fixe estes repositórios no seu perfil GitHub (Customize your pins) para que apareçam no topo.
-
 ## Formação
 
-**Engenharia de Software** — Universidade São Francisco (USF)
-Em andamento | Início: 2026
+**Engenharia de Software — Bacharelado** | 2026 – Em andamento
+Universidade São Francisco (USF)
 
-**Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos
-Concluído | 2025
+**Técnico em Desenvolvimento de Sistemas — Certificado** | 2024 – 2025
+SENAI – Valinhos/SP
+
+**Ensino Médio** | 2023 – 2025
+SESI – Valinhos/SP (Unidade 299)
+
+**Curso Profissionalizante de Informática** | 2 Anos
+Escola MC Valinhos Educação Profissional
+
+**Curso Profissionalizante de Games** | 2 Anos
+Escola MC Valinhos Educação Profissional
+
+**Hardware com Robótica** | 2 Anos — Em andamento
+Escola MC Valinhos Educação Profissional
+
+**Inglês** | 2 Anos — Em andamento
+Escola MC Valinhos Educação Profissional
 
 **Idiomas**
 - Português: Nativo
-- Inglês: Intermediário (leitura técnica, documentação)
+- Inglês: Intermediário (leitura técnica e escrita básica para documentação e programação)
 
 ## GitHub Stats
 <div align="center">
