@@ -2,51 +2,64 @@
 
 **Full Stack Developer** | Engenharia de Software (USF) | Técnico em ADS (SENAI Valinhos)
 
-Desenvolvo aplicações web modernas e escaláveis com foco em qualidade, performance e experiência do usuário. Especializado em React, Node.js e arquiteturas orientadas a boas práticas de engenharia. Disponível para oportunidades e colaborações técnicas.
+Desenvolvo aplicações web com React, Node.js e APIs REST, com foco em código limpo, boas práticas de engenharia e experiência do usuário. Disponível para oportunidades e colaborações técnicas.
 
 ## Tecnologias
 
 ### Frontend
-
 <div>
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css&theme=dark" />
 </div>
 
 ### Backend & APIs
-
 <div>
   <img src="https://skillicons.dev/icons?i=nodejs,express,npm&theme=dark" />
 </div>
 
 ### Bancos de Dados
-
 <div>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
 </div>
 
 ### Ferramentas & DevOps
-
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
 </div>
 
 **Softwares & Ferramentas:** Postman, VS Code, Git/GitHub, Docker, Linux, Figma (básico)
 
+## Projetos em Destaque
+
+### 🔹 [Nome do Projeto 1](https://github.com/PedroLeoo07/repo-1)
+Breve descrição do que o projeto resolve e por quê (1-2 linhas).
+**Stack:** React · Node.js · PostgreSQL
+🔗 [Deploy](#) · 📂 [Repositório](https://github.com/PedroLeoo07/repo-1)
+
+### 🔹 [Nome do Projeto 2](https://github.com/PedroLeoo07/repo-2)
+Breve descrição do que o projeto resolve e por quê (1-2 linhas).
+**Stack:** Next.js · Express · MongoDB
+🔗 [Deploy](#) · 📂 [Repositório](https://github.com/PedroLeoo07/repo-2)
+
+### 🔹 [Nome do Projeto 3](https://github.com/PedroLeoo07/repo-3)
+Breve descrição do que o projeto resolve e por quê (1-2 linhas).
+**Stack:** React Native · Node.js
+🔗 [Deploy](#) · 📂 [Repositório](https://github.com/PedroLeoo07/repo-3)
+
+> 💡 Fixe estes repositórios no seu perfil GitHub (Customize your pins) para que apareçam no topo.
+
 ## Formação
 
-**Engenharia de Software** — Universidade São Francisco (USF)  
-Em andamento | Previsão: 2031
+**Engenharia de Software** — Universidade São Francisco (USF)
+Em andamento | Início: 2026
 
-**Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos  
+**Técnico em Análise e Desenvolvimento de Sistemas** — SENAI Valinhos
 Concluído | 2025
 
 **Idiomas**
-
 - Português: Nativo
 - Inglês: Intermediário (leitura técnica, documentação)
 
 ## GitHub Stats
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLeoo07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLeoo07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
