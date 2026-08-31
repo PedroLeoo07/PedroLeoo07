@@ -39,18 +39,6 @@ SENAI – Valinhos/SP
 **Ensino Médio** | 2023 – 2025
 SESI – Valinhos/SP (Unidade 299)
 
-**Curso Profissionalizante de Informática** | 2 Anos
-Escola MC Valinhos Educação Profissional
-
-**Curso Profissionalizante de Games** | 2 Anos
-Escola MC Valinhos Educação Profissional
-
-**Hardware com Robótica** | 2 Anos — Em andamento
-Escola MC Valinhos Educação Profissional
-
-**Inglês** | 2 Anos — Em andamento
-Escola MC Valinhos Educação Profissional
-
 **Idiomas**
 - Português: Nativo
 - Inglês: Intermediário (leitura técnica e escrita básica para documentação e programação)
