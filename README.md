@@ -26,7 +26,7 @@ Desenvolvo aplicações web com React, Node.js e APIs REST, com foco em código 
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
 </div>
 
-**Softwares & Ferramentas:** Postman, Notion, VS Code, Git/GitHub, Docker, Linux, Figma (básico)
+**Softwares & Ferramentas:** Postman,VS Code, Git/GitHub, Docker, Linux, Figma (básico)
 
 ## Formação
 
