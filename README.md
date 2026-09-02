@@ -4,7 +4,7 @@
 
 Desenvolvo aplicações web com React, Node.js e APIs REST, com foco em código limpo, boas práticas de engenharia e experiência do usuário. Disponível para oportunidades e colaborações técnicas.
 
-## Tecnologias
+## Tecnologia
 
 ### Frontend
 <div>
