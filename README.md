@@ -2,7 +2,7 @@
 
 **Full Stack Developer** | Engenharia de Software (USF) | Técnico em ADS (SENAI Valinhos)
 
-Desenvolvo aplicações com React, Node.js e APIs REST, com foco em código limpo, boas práticas de engenharia e experiência do usuário. Disponível para oportunidades e colaborações técnicas.
+Desenvolvo aplicações com React, Node.js e API REST, com foco em código limpo, boas práticas de engenharia e experiência do usuário. Disponível para oportunidades e colaborações técnicas.
 
 ## Tecnologia
 
